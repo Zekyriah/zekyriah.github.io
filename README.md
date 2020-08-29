@@ -1,2 +1,3 @@
-Firefox new tab
-asdfasdf
+---
+permalink: /index.html
+---
