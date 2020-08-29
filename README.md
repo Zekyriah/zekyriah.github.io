@@ -1,0 +1,2 @@
+Firefox new tab
+asdfasdf
